@@ -6,7 +6,7 @@
   <link href="http://kplcat.github.io/atom.xml" rel="self"/>
   
   <link href="http://kplcat.github.io/"/>
-  <updated>2024-08-29T02:55:04.384Z</updated>
+  <updated>2024-09-02T06:00:49.284Z</updated>
   <id>http://kplcat.github.io/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>猎户座大星云</title>
+    <link href="http://kplcat.github.io/posts/4a17b156.html"/>
+    <id>http://kplcat.github.io/posts/4a17b156.html</id>
+    <published>2024-09-02T05:55:29.950Z</published>
+    <updated>2024-09-02T06:00:49.284Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><img src="https://img.picgo.net/2024/09/02/166374949809294ae6358563ab033.jpeg" alt="图片"><br>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;&#92;assets&#92;css&#92;APlayer.min.css&quot;&gt;&lt;script src=&quot;&#92;assets&#92;js&#92;APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
