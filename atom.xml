@@ -6,7 +6,7 @@
   <link href="http://kplcat.github.io/atom.xml" rel="self"/>
   
   <link href="http://kplcat.github.io/"/>
-  <updated>2024-09-04T02:45:40.284Z</updated>
+  <updated>2024-09-05T01:47:03.728Z</updated>
   <id>http://kplcat.github.io/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>天文图像后期处理——M42</title>
+    <link href="http://kplcat.github.io/posts/28e954cc.html"/>
+    <id>http://kplcat.github.io/posts/28e954cc.html</id>
+    <published>2024-09-05T01:41:30.000Z</published>
+    <updated>2024-09-05T01:47:03.728Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><img src="https://img.picui.cn/free/2024/09/05/66d90c4c58646.jpeg" alt="M42"></p><h2 id="【深空摄影的后期处理】"><a href="#【深空摄影的后期处理】" class="headerlink" title="【深空摄影的后期处理】"></a>【深空摄影的后期处理】</h2><p> 选了-40℃的RGB通道各1800s * 5，<br> 曝光时间共7.5小时。<br> 经过预处理（扣除平场，暗场和偏置），RGB通道合成彩色图片，降噪，人工平场，白平衡，曲线拉伸，饱和度加强，缩星后得到这张图片<br> 素材来自牧夫天文论坛：sshyang<br> 地点：婺源日月星尘台&#x2F;江西婺源鄣山村世外桃源客栈<br> 主镜：锐星100Q<br> 赤道仪：艾顿CEM60<br> CCD相机：SBIG STT-8300<br> 滤镜：Astrodon LRGB<br> 拍摄软件：SGP<br> 处理软件：Pixlnsight1.8  </p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;&#92;assets&#92;css&#92;APlayer.min.css&quot;&gt;&lt;script src=&quot;&#92;assets&#92;js&#92;APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>helloworld</title>
