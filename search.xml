@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>环境</title>
+      <link href="/posts/b916a8dc.html"/>
+      <url>/posts/b916a8dc.html</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="环境变量"><a href="#环境变量" class="headerlink" title="环境变量"></a>环境变量</h1><p>百度百科：<del>环境变量是在操作系统中一个具有特定名字的对象，它包含了一个或者多个应用程序所将使用到的信息。</del></p><p>简单来说：环境变量的主要作用就是指明重要文件的位置在哪，方便用户或者各类程序调用。</p><p>先尝试在任意文件夹上方的地址栏输入 <code>%systemroot%</code>，并回车</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>天文图像后期处理——M42</title>
       <link href="/posts/28e954cc.html"/>
       <url>/posts/28e954cc.html</url>
