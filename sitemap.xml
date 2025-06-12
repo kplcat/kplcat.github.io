@@ -2,9 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://kplcat.github.io/posts/8bf59925.html</loc>
+    
+    <lastmod>2025-06-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://kplcat.github.io/posts/b916a8dc.html</loc>
     
     <lastmod>2024-11-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://kplcat.github.io/posts/f9eb20ad.html</loc>
+    
+    <lastmod>2024-09-10</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -21,15 +39,6 @@
   
   <url>
     <loc>http://kplcat.github.io/posts/28e954cc.html</loc>
-    
-    <lastmod>2024-09-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://kplcat.github.io/posts/f9eb20ad.html</loc>
     
     <lastmod>2024-09-05</lastmod>
     
@@ -67,7 +76,7 @@
 
   <url>
     <loc>http://kplcat.github.io/</loc>
-    <lastmod>2025-06-10</lastmod>
+    <lastmod>2025-06-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
