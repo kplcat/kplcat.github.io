@@ -3,11 +3,11 @@
   <title>kplcat</title>
   
   <subtitle>开普勒の猫</subtitle>
-  <link href="http://kplcat.github.io/atom.xml" rel="self"/>
+  <link href="http://kplcat.xyz/atom.xml" rel="self"/>
   
-  <link href="http://kplcat.github.io/"/>
-  <updated>2025-06-12T02:17:03.094Z</updated>
-  <id>http://kplcat.github.io/</id>
+  <link href="http://kplcat.xyz/"/>
+  <updated>2025-06-12T02:17:28.886Z</updated>
+  <id>http://kplcat.xyz/</id>
   
   <author>
     <name>kplcat</name>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>测试图片</title>
-    <link href="http://kplcat.github.io/posts/8bf59925.html"/>
-    <id>http://kplcat.github.io/posts/8bf59925.html</id>
+    <link href="http://kplcat.xyz/posts/8bf59925.html"/>
+    <id>http://kplcat.xyz/posts/8bf59925.html</id>
     <published>2025-06-12T02:14:23.000Z</published>
-    <updated>2025-06-12T02:17:03.094Z</updated>
+    <updated>2025-06-12T02:17:28.886Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="测试图片引用"><a href="#测试图片引用" class="headerlink" title="测试图片引用"></a>测试图片引用</h1><p>hello world</p><h2 id="下面是图片"><a href="#下面是图片" class="headerlink" title="下面是图片"></a>下面是图片</h2><p><img src="/image/%E4%B8%83%E6%9C%88%E4%B8%89.jpg" alt="alt text"></p>]]></content>
     
@@ -38,8 +38,8 @@
   
   <entry>
     <title>环境</title>
-    <link href="http://kplcat.github.io/posts/b916a8dc.html"/>
-    <id>http://kplcat.github.io/posts/b916a8dc.html</id>
+    <link href="http://kplcat.xyz/posts/b916a8dc.html"/>
+    <id>http://kplcat.xyz/posts/b916a8dc.html</id>
     <published>2024-11-08T07:28:10.000Z</published>
     <updated>2024-11-20T11:58:14.971Z</updated>
     
@@ -58,8 +58,8 @@
   
   <entry>
     <title>天文图像后期处理——M42</title>
-    <link href="http://kplcat.github.io/posts/28e954cc.html"/>
-    <id>http://kplcat.github.io/posts/28e954cc.html</id>
+    <link href="http://kplcat.xyz/posts/28e954cc.html"/>
+    <id>http://kplcat.xyz/posts/28e954cc.html</id>
     <published>2024-09-05T01:41:30.000Z</published>
     <updated>2024-09-05T01:47:35.152Z</updated>
     
@@ -78,8 +78,8 @@
   
   <entry>
     <title>helloworld</title>
-    <link href="http://kplcat.github.io/posts/f9eb20ad.html"/>
-    <id>http://kplcat.github.io/posts/f9eb20ad.html</id>
+    <link href="http://kplcat.xyz/posts/f9eb20ad.html"/>
+    <id>http://kplcat.xyz/posts/f9eb20ad.html</id>
     <published>2024-09-03T08:43:36.000Z</published>
     <updated>2024-09-10T03:49:36.912Z</updated>
     
@@ -98,8 +98,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://kplcat.github.io/posts/4a17b156.html"/>
-    <id>http://kplcat.github.io/posts/4a17b156.html</id>
+    <link href="http://kplcat.xyz/posts/4a17b156.html"/>
+    <id>http://kplcat.xyz/posts/4a17b156.html</id>
     <published>2024-07-23T13:51:47.170Z</published>
     <updated>2024-09-03T08:56:34.497Z</updated>
     
