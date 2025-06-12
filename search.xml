@@ -8,7 +8,7 @@
       <link href="/posts/8bf59925.html"/>
       <url>/posts/8bf59925.html</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="测试图片引用"><a href="#测试图片引用" class="headerlink" title="测试图片引用"></a>测试图片引用</h1><p>hello world</p><h2 id="下面是图片"><a href="#下面是图片" class="headerlink" title="下面是图片"></a>下面是图片</h2><p><img src="/image/%E4%B8%83%E6%9C%88%E4%B8%89.jpg" alt="alt text"></p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="测试图片引用"><a href="#测试图片引用" class="headerlink" title="测试图片引用"></a>测试图片引用</h1><p>hello world</p><h2 id="下面是图片"><a href="#下面是图片" class="headerlink" title="下面是图片"></a>下面是图片</h2><p><img src="/image/%E4%B8%89%E6%9C%88%E4%B8%83.jpg" alt="alt text"></p><p><img src="/../../images/585e2bbf5607ab68e688206d9637142b3a797c46124ac769ee00698ec6779a3e.png" alt="图 0">  </p>]]></content>
       
       
       
@@ -48,19 +48,6 @@
       <url>/posts/f9eb20ad.html</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><img src="https://img.picgo.net/2024/09/03/M279c03e0165ce1bb5c.jpg" alt="M27"></p><h2 id="天文图像后期处理"><a href="#天文图像后期处理" class="headerlink" title="天文图像后期处理"></a>天文图像后期处理</h2><h3 id="M27"><a href="#M27" class="headerlink" title="M27"></a>M27</h3><p>挑选了R通道60*9s<br>G通道60*8s<br>B通道60*8s<br>原始数据来自牧夫天文论坛：sshyang<br>地点：婺源日月星尘台&#x2F;江西婺源鄣山村世外桃源客栈<br>主镜：锐星100Q<br>赤道仪：艾顿CEM60<br>CCD相机：SBIG STT-8300<br>滤镜：Astrodon LRGB<br>拍摄软件：SGP<br>处理软件：PixInsight  </p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hello World</title>
-      <link href="/posts/4a17b156.html"/>
-      <url>/posts/4a17b156.html</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo generateS</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
       
       
       
